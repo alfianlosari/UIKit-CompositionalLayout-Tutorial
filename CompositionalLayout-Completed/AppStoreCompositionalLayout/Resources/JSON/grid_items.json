@@ -1,0 +1,54 @@
+[
+    {
+        "id": "yoda",
+        "title": "Yoda",
+        "imageName": "yoda",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "quigonjin",
+        "title": "Qui Gon",
+        "imageName": "quigon",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "anakinskywalker",
+        "title": "Anakin Skywalker",
+        "imageName": "anakin",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "obiwankenobi",
+        "title": "Obi Wan",
+        "imageName": "obiwan",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "macewindu",
+        "title": "Mace Windu",
+        "imageName": "mace",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "lukesywalker",
+        "title": "Luke Skywalker",
+        "imageName": "luke",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "reypalpatine",
+        "title": "Rey",
+        "imageName": "rey",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "darthmaul",
+        "title": "Darth Maul",
+        "imageName": "darthmaul",
+        "subtitle": "sith"
+    }
+   
+]
+
+
+

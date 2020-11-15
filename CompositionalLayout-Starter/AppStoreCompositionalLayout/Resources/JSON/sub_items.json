@@ -1,0 +1,74 @@
+[
+    {
+        "id": "sub_item_cloudstrife",
+        "title": "Cloud Strife",
+        "job": "EX-SOLDIER",
+        "imageName": "cloud",
+        "subtitle": "Mercenary (EX-SOLDIER)"
+    },
+    {
+        "id": "sub_item_aerithgainsborough",
+        "title": "Aerith Gainsborough",
+        "job": "Flower Seller from Midgar",
+        "imageName": "aerith",
+        "subtitle": "Flower Seller from Midgar"
+    },
+    {
+        "id": "sub_item_tifalockhart",
+        "title": "Tifa Lockhart",
+        "job": "Seventh Heaven Bar Hostess",
+        "imageName": "tifa",
+        "subtitle": "Seventh Heaven Bar Hostess"
+    },
+    {
+        "id": "sub_item_barretwallace",
+        "title": "Barret",
+        "job": "Leader",
+        "imageName": "barret",
+        "subtitle": "AVALANCHE Group Leader"
+    },
+    {
+        "id": "sub_item_jessieraspberry",
+        "title": "Jessie",
+        "job": "Bomb Specialist",
+        "imageName": "jessie",
+        "subtitle": "AVALANCHE Bomb Specialist"
+    },
+    {
+        "id": "sub_item_redxiii",
+        "title": "Red XIII",
+        "job": "Research Specimen",
+        "imageName": "redxiii",
+        "subtitle": "Shinra Research Specimen"
+    },
+    {
+        "id": "sub_item_biggs",
+        "title": "Biggs",
+        "job": "Fighter",
+        "imageName": "biggs",
+        "subtitle": "AVALANCHE Fighter"
+    },
+    {
+        "id": "sub_item_wedge",
+        "title": "Wedge",
+        "job": "Fighter",
+        "imageName": "wedge",
+        "subtitle": "AVALANCHE Fighter"
+    },
+    {
+        "id": "sub_item_shinra",
+        "title": "President Shinra",
+        "job": "President",
+        "imageName": "shinra",
+        "subtitle": "President of Shinra Corp"
+    },
+    {
+        "id": "sub_item_rufusshinra",
+        "title": "Rufus Shinra",
+        "job": "Vice President",
+        "imageName": "rufus",
+        "subtitle": "Son of President Shinra"
+    }
+]
+
+

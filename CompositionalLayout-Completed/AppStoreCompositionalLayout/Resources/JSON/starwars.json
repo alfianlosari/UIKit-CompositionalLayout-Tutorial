@@ -1,0 +1,89 @@
+[
+    {
+        "id": "yoda",
+        "title": "Yoda",
+        "imageName": "yoda",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "quigonjin",
+        "title": "Qui Gon",
+        "imageName": "quigon",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "anakinskywalker",
+        "title": "Anakin Skywalker",
+        "imageName": "anakin",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "obiwankenobi",
+        "title": "Obi Wan",
+        "imageName": "obiwan",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "macewindu",
+        "title": "Mace Windu",
+        "imageName": "mace",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "lukesywalker",
+        "title": "Luke Skywalker",
+        "imageName": "luke",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "reypalpatine",
+        "title": "Rey",
+        "imageName": "rey",
+        "subtitle": "jedi"
+    },
+    {
+        "id": "darthmaul",
+        "title": "Darth Maul",
+        "imageName": "darthmaul",
+        "subtitle": "sith"
+    },
+    {
+        "id": "palpatine",
+        "title": "Darth Sidious",
+        "imageName": "palpatine",
+        "subtitle": "sith"
+    },
+    {
+        "id": "darthvader",
+        "title": "Darth Vader",
+        "imageName": "vader",
+        "subtitle": "sith"
+    },
+    {
+        "id": "darthtyrannus",
+        "title": "Darth Tyrannus",
+        "imageName": "tyrannus",
+        "subtitle": "sith"
+    },
+    {
+        "id": "darthplageuis",
+        "title": "Darth Plagueis",
+        "imageName": "plagueis",
+        "subtitle": "sith"
+    },
+    {
+        "id": "babyyoda",
+        "title": "Baby Yoda",
+        "imageName": "babyyoda",
+        "subtitle": "????"
+    },
+    {
+        "id": "mandalorian",
+        "title": "Mandalorian",
+        "imageName": "mandalorian",
+        "subtitle": "????"
+    }
+
+]
+
+

@@ -1,0 +1,93 @@
+[
+    {
+        "id": "blackpanther",
+        "title": "Black Panther",
+        "imageName": "blackpanther",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "steverogers",
+        "title": "Captain America",
+        "imageName": "captainamerica",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "ironman",
+        "title": "Iron Man",
+        "imageName": "ironman",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "thor",
+        "title": "Thor",
+        "imageName": "thor",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "hulk",
+        "title": "Hulk",
+        "imageName": "hulk",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "blackwidow",
+        "title": "Black Widow",
+        "imageName": "blackwidow",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "captainmarvel",
+        "title": "Captain Marvel",
+        "imageName": "captainmarvel",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "antman",
+        "title": "Ant Man",
+        "imageName": "antman",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "hawkeye",
+        "title": "Hawkeye",
+        "imageName": "hawkeye",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "wolverine",
+        "title": "Wolverine",
+        "imageName": "wolverine",
+        "subtitle": "X-Men"
+    },
+    {
+        "id": "charlesxavier",
+        "title": "Professor X",
+        "imageName": "xavier",
+        "subtitle": "X-Men"
+    },
+    {
+        "id": "cyclops",
+        "title": "Cyclops",
+        "imageName": "cyclops",
+        "subtitle": "X-Men"
+    },
+    {
+        "id": "jeangrey",
+        "title": "Jean Grey",
+        "imageName": "jeangrey",
+        "subtitle": "X-Men"
+    },
+    {
+        "id": "magneto",
+        "title": "Magneto",
+        "imageName": "magneto",
+        "subtitle": "X-Men"
+    },
+    {
+        "id": "mystique",
+        "title": "Mystique",
+        "imageName": "mystique",
+        "subtitle": "X-Men"
+    }
+]
+

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "grid_carousel_cloudstrife",
+        "title": "Cloud",
+        "job": "EX-SOLDIER",
+        "imageName": "cloud",
+        "subtitle": "AVALANCHE"
+    },
+    {
+        "id": "grid_carousel_aerithgainsborough",
+        "title": "Aerith",
+        "job": "Flower Seller",
+        "imageName": "aerith",
+        "subtitle": "AVALANCHE"
+    },
+    {
+        "id": "grid_carousel_blackpanther",
+        "title": "Black Panther",
+        "imageName": "blackpanther",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "grid_carousel_ironman",
+        "title": "Iron Man",
+        "imageName": "ironman",
+        "subtitle": "AVENGERS"
+    },
+    {
+        "id": "grid_carousel_wonderwoman",
+        "title": "Wonder Woman",
+        "imageName": "wonderwoman",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "grid_carousel_aquaman",
+        "title": "Aquaman",
+        "imageName": "aquaman",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "grid_carousel_babyyoda",
+        "title": "Baby Yoda",
+        "imageName": "babyyoda",
+        "subtitle": "????"
+    },
+    {
+        "id": "grid_carousel_mandalorian",
+        "title": "Mandalorian",
+        "imageName": "mandalorian",
+        "subtitle": "????"
+    },
+]

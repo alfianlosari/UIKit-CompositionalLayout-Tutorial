@@ -1,0 +1,64 @@
+
+[
+    {
+        "id": "superman",
+        "title": "Superman",
+        "imageName": "superman",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "batman",
+        "title": "Batman",
+        "imageName": "batman",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "wonderwoman",
+        "title": "Wonder Woman",
+        "imageName": "wonderwoman",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "aquaman",
+        "title": "Aquaman",
+        "imageName": "aquaman",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "flash",
+        "title": "Flash",
+        "imageName": "flash",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "cyborg",
+        "title": "Cyborg",
+        "imageName": "cyborg",
+        "subtitle": "justice league"
+    },
+    {
+        "id": "joker",
+        "title": "Joker",
+        "imageName": "joker",
+        "subtitle": "villain"
+    },
+    {
+        "id": "quinn",
+        "title": "Harley Quinn",
+        "imageName": "quinn",
+        "subtitle": "villain"
+    },
+    {
+        "id": "lexluthor",
+        "title": "Lex Luthor",
+        "imageName": "lex",
+        "subtitle": "villain"
+    },
+    {
+        "id": "2face",
+        "title": "Two-Face",
+        "imageName": "2face",
+        "subtitle": "villain"
+    }
+]
+

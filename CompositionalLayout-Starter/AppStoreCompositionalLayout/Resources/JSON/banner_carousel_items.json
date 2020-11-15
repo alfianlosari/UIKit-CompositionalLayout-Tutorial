@@ -1,0 +1,29 @@
+[
+    {
+        "id": "banner_carousel_ff7r",
+        "title": "FF7 Remake",
+        "job": "",
+        "imageName": "ff7r",
+        "subtitle": "FINAL FANTASY"
+    },
+    {
+        "id": "banner_carousel_mandalorian",
+        "title": "The Mandalorian",
+        "job": "",
+        "imageName": "sw_mandalorian",
+        "subtitle": "Star Wars"
+    },
+    {
+        "id": "banner_carousel_justiceleague",
+        "title": "Justice League",
+        "imageName": "justiceleague",
+        "subtitle": "DC Comics"
+    },
+    {
+        "id": "banner_carousel_avengers",
+        "title": "The Avengers",
+        "imageName": "avengers",
+        "subtitle": "MARVEL"
+    }
+]
+
